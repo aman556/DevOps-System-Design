@@ -2,24 +2,61 @@
 
 This repo contains DevOps system design concepts and implementation.
 
+* [DevOps Fundamentals Explained](#🚀-devops-fundamentals-explained)
+    * [What is DevOps?](#what-is-devops)
+    * [DevOps Lifecycle Overview](#devops-lifecycle-overview)
+    * [Infrastructure as Code (IaC)](#infrastructure-as-code-iac)
+    * [Continuous Integration (CI)](#continuous-integration-ci)
+    * [Continuous Delivery & Deployment (CD)](#continuous-delivery--deployment-cd)
+    * [Configuration Management](#configuration-management)
+    * [Monitoring & Logging](#monitoring--logging)
+    * [Version Control Systems](#version-control-systems)
+    * [Security in DevOps (DevSecOps)](#security-in-devops-devsecops)
+    * [Cloud & Containerization](#cloud--containerization)
+    * [Orchestration](#orchestration)
+    * [Automation in DevOps](#automation-in-devops)
+    * [Feedback & Continuous Improvement](#feedback--continuous-improvement)
+* [DevOps Engineer Runbooks](#🧰-devops-engineer-runbooks)
+    * [Version Control](#1-version-control)
+    * [Continuous Integration & Continuous Deployment (CI/CD)](#2-continuous-integration--continuous-deployment-cicd)
+    * [Containerization & Orchestration](#3-containerization--orchestration)
+    * [Infrastructure as Code (IaC)](#4-infrastructure-as-code-iac)
+    * [Configuration Management](#5-configuration-management)
+    * [Monitoring & Logging](#6-monitoring--logging)
+    * [Artifact Repositories](#7-artifact-repositories)
+    * [Cloud Platforms](#8-cloud-platforms)
+    * [Security & Compliance](#9-security--compliance)
+    * [Collaboration & Communication](#10-collaboration--communication)
+* [Real-World CI/CD Pipeline Implementation](#🌐-real-world-cicd-pipeline-implementation)
+    * [How to run your Golang Project in docker image?](#how-to-run-your-golang-project-in-docker-image)
+    * [How to continous integrate your app?](#how-to-continous-integrate-your-app)
+    * [How to create IAC for EKS cluster in AWS?](#how-to-create-iac-for-eks-cluster-in-aws)
+    * [How to run applications as docker container in EKS cluster in AWS?](#how-to-run-applications-as-docker-container-in-eks-cluster-in-aws)
+    * [How to continuous deploy your app?](#how-to-continuous-deploy-your-app)
+    * [How to moniter app running in Kubernetes cluster in Monitoring tools?](#how-to-moniter-app-running-in-kubernetes-cluster-in-monitoring-tools)
+    * [How to automate notification for deployment in AWS?](#how-to-automate-notification-for-deployment-in-aws)
+* [DevOps Interview Mastery](#🎯-devops-interview-mastery)
+* [YouTube Channels for DevOps](#🎬-youtube-channels-for-devops)
+
+
 ## 🚀 DevOps Fundamentals Explained
-1. **What is DevOps?**
-2. **DevOps Lifecycle Overview**
-3. **Infrastructure as Code (IaC)**
-4. **Continuous Integration (CI)**
-5. **Continuous Delivery & Deployment (CD)**
-6. **Configuration Management**
-7. **Monitoring & Logging**
-8. **Version Control Systems**
-9. **Security in DevOps (DevSecOps)**
-10. **Cloud & Containerization**
-11. **Automation in DevOps**
-12. **Feedback & Continuous Improvement**
+### **What is DevOps?**
+### **DevOps Lifecycle Overview**
+### **Infrastructure as Code (IaC)**
+### **Continuous Integration (CI)**
+### **Continuous Delivery & Deployment (CD)**
+### **Configuration Management**
+### **Monitoring & Logging**
+### **Version Control Systems**
+### **Security in DevOps (DevSecOps)**
+### **Cloud & Containerization**
+### **Orchestration**
+### **Automation in DevOps**
+### **Feedback & Continuous Improvement**
     - **Measuring Success (KPIs)**
     - **Incident Response & Postmortems**
 
-
-## 🧰 Essential DevOps Toolkits
+## 🧰 DevOps Engineer Runbooks
 ### 1. **Version Control**
 - **Git** – The foundation of modern DevOps workflows
 - **GitHub / GitLab / Bitbucket** – Popular platforms for hosting and collaboration
@@ -70,8 +107,21 @@ This repo contains DevOps system design concepts and implementation.
 - **Slack**
 - **Jira** (Project management)
 
+## 🌐 Real-World CI/CD Pipeline Implementation
 
-## 🌐 Real-World CI/CD Pipeline Blueprints
+### How to run your Golang Project in docker image?
+### How to continous integrate your app?
+### How to create IAC for EKS cluster in AWS?
+### How to run applications as docker container in EKS cluster in AWS?
+### How to continuous deploy your app?
+### How to moniter app running in Kubernetes cluster in Monitoring tools?
+### How to automate notification for deployment in AWS?
+### How to deploy a Golang Backend with database in EKS AWS cluster?
+### How to integrate DevOps tools in your app using SDK?
+### How to integrate DevOps tools in your app using CLI?
+### How to automate in DevOps?
+#### Automate Github repo creation and archiving using AWS Lambda and Github REST APIs.
+#### CLI as wrapper to Github repo creation and archiving automation.
 
 ## 🎯 DevOps Interview Mastery
 
