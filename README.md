@@ -16,7 +16,7 @@ This repo contains DevOps system design concepts and implementation.
     * [Orchestration](#orchestration)
     * [Automation in DevOps](#automation-in-devops)
     * [Feedback & Continuous Improvement](#feedback--continuous-improvement)
-* [DevOps Engineer Runbooks](#🧰-devops-engineer-runbooks)
+* [DevOps Building blocks](#devops-building-blocks)
     * [Version Control](#1-version-control)
     * [Continuous Integration & Continuous Deployment (CI/CD)](#2-continuous-integration--continuous-deployment-cicd)
     * [Containerization & Orchestration](#3-containerization--orchestration)
@@ -27,7 +27,7 @@ This repo contains DevOps system design concepts and implementation.
     * [Cloud Platforms](#8-cloud-platforms)
     * [Security & Compliance](#9-security--compliance)
     * [Collaboration & Communication](#10-collaboration--communication)
-* [Real-World CI/CD Pipeline Implementation](#🌐-real-world-cicd-pipeline-implementation)
+* [DevOps Engineer Runbooks](#🧰-devops-engineer-runbooks)
     * [How to run your Golang Project in docker image?](#how-to-run-your-golang-project-in-docker-image)
     * [How to continous integrate your app?](#how-to-continous-integrate-your-app)
     * [How to create IAC for EKS cluster in AWS?](#how-to-create-iac-for-eks-cluster-in-aws)
@@ -42,6 +42,7 @@ This repo contains DevOps system design concepts and implementation.
 ## 🚀 DevOps Fundamentals Explained
 ### **What is DevOps?**
 ### **DevOps Lifecycle Overview**
+### **VM vs Container**
 ### **Infrastructure as Code (IaC)**
 ### **Continuous Integration (CI)**
 ### **Continuous Delivery & Deployment (CD)**
@@ -56,7 +57,7 @@ This repo contains DevOps system design concepts and implementation.
     - **Measuring Success (KPIs)**
     - **Incident Response & Postmortems**
 
-## 🧰 DevOps Engineer Runbooks
+## DevOps Building blocks
 ### 1. **Version Control**
 - **Git** – The foundation of modern DevOps workflows
 - **GitHub / GitLab / Bitbucket** – Popular platforms for hosting and collaboration
@@ -107,8 +108,7 @@ This repo contains DevOps system design concepts and implementation.
 - **Slack**
 - **Jira** (Project management)
 
-## 🌐 Real-World CI/CD Pipeline Implementation
-
+## 🧰 DevOps Engineer Runbooks
 ### How to run your Golang Project in docker image?
 ### How to continous integrate your app?
 ### How to create IAC for EKS cluster in AWS?
@@ -117,11 +117,14 @@ This repo contains DevOps system design concepts and implementation.
 ### How to moniter app running in Kubernetes cluster in Monitoring tools?
 ### How to automate notification for deployment in AWS?
 ### How to deploy a Golang Backend with database in EKS AWS cluster?
+### How to autoscale app in AWS EKS cluster?
 ### How to integrate DevOps tools in your app using SDK?
 ### How to integrate DevOps tools in your app using CLI?
 ### How to automate in DevOps?
 #### Automate Github repo creation and archiving using AWS Lambda and Github REST APIs.
 #### CLI as wrapper to Github repo creation and archiving automation.
+### How to publish your CLI as package to homebrew?
+### How to setup alert and monitoring in DevOps?
 
 ## 🎯 DevOps Interview Mastery
 
