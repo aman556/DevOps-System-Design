@@ -1,0 +1,40 @@
+# Local .terraform directories (Terraform state and modules)
+.terraform/
+**/.terraform/*
+
+# Terraform plan and state files
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfplan
+
+# Sensitive variable files
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Local environment files
+.terraformrc
+.terraform.lock.hcl
+
+# macOS files
+.DS_Store
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*~
+
+# Log files
+*.log
+
+# General system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini

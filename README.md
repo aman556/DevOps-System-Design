@@ -1,33 +1,28 @@
 # DevOps-System-Design
 
-This repo contains DevOps system design concepts and implementation.
+This repo contains DevOps system design concepts and implementation. Aim is to simplify the concepts to create a strong foundation and then deep dive into complex DevOps problem statements and solutions.
 
-* [DevOps Fundamentals Explained](#🚀-devops-fundamentals-explained)
-    * [What is DevOps?](#what-is-devops)
-    * [DevOps Lifecycle Overview](#devops-lifecycle-overview)
-    * [Infrastructure as Code (IaC)](#infrastructure-as-code-iac)
-    * [Continuous Integration (CI)](#continuous-integration-ci)
-    * [Continuous Delivery & Deployment (CD)](#continuous-delivery--deployment-cd)
-    * [Configuration Management](#configuration-management)
-    * [Monitoring & Logging](#monitoring--logging)
-    * [Version Control Systems](#version-control-systems)
-    * [Security in DevOps (DevSecOps)](#security-in-devops-devsecops)
-    * [Cloud & Containerization](#cloud--containerization)
-    * [Orchestration](#orchestration)
-    * [Automation in DevOps](#automation-in-devops)
-    * [Feedback & Continuous Improvement](#feedback--continuous-improvement)
-* [DevOps Building blocks](#devops-building-blocks)
-    * [Version Control](#1-version-control)
-    * [Continuous Integration & Continuous Deployment (CI/CD)](#2-continuous-integration--continuous-deployment-cicd)
-    * [Containerization & Orchestration](#3-containerization--orchestration)
-    * [Infrastructure as Code (IaC)](#4-infrastructure-as-code-iac)
-    * [Configuration Management](#5-configuration-management)
-    * [Monitoring & Logging](#6-monitoring--logging)
-    * [Artifact Repositories](#7-artifact-repositories)
-    * [Cloud Platforms](#8-cloud-platforms)
-    * [Security & Compliance](#9-security--compliance)
-    * [Collaboration & Communication](#10-collaboration--communication)
-* [DevOps Engineer Runbooks](#🧰-devops-engineer-runbooks)
+ToDo: Image for DevOps with all the  
+
+* DevOps Fundamentals Explained
+    * [What is DevOps?](articles/WhatisDevOps.md)
+    * [DevOps Lifecycle Overview](articles/DevOpsLifecycleOverview.md)
+    * [Cloud](articles/Cloud.md)
+    * [Containerization](articles/Containerization.md)
+    * [Orchestration](articles/Orchestration.md)
+    * [Networking](articles/Networking.md)
+    * [Infrastructure as Code (IaC)](articles/InfrastructureasCode.md)
+    * [Continuous Integration (CI)](articles/Continuous%20Integration.md)
+    * [Continuous Delivery & Deployment (CD)](articles/ContinuousDelivery&Deployment.md)
+    * [Configuration Management](articles/ConfigurationManagement.md)
+    * [Monitoring & Logging](articles/Monitoring&Logging.md)
+    * [Version Control Systems](articles/VersionControlSystems.md)
+    * [Security in DevOps (DevSecOps)](articles/SecurityinDevOps.md)
+    * [Automation in DevOps]()
+    * [Artifact Repositories]()
+    * [Feedback & Continuous Improvement]()
+
+* [DevOps Problem Statements](#🧰-devops-engineer-runbooks)
     * [How to run your Golang Project in docker image?](#how-to-run-your-golang-project-in-docker-image)
     * [How to continous integrate your app?](#how-to-continous-integrate-your-app)
     * [How to create IAC for EKS cluster in AWS?](#how-to-create-iac-for-eks-cluster-in-aws)
@@ -42,7 +37,7 @@ This repo contains DevOps system design concepts and implementation.
 ## 🚀 DevOps Fundamentals Explained
 ### **What is DevOps?**
 ### **DevOps Lifecycle Overview**
-### **VM vs Container**
+### **Networking**
 ### **Infrastructure as Code (IaC)**
 ### **Continuous Integration (CI)**
 ### **Continuous Delivery & Deployment (CD)**
