@@ -23,6 +23,29 @@ This guide provides a single, streamlined lab for deploying an AWS EKS (Elastic 
 
 ---
 
+## Prerequisites
+
+1. **Read the Infrastructure as Code (IaC) Article**
+
+   Please review the IaC foundational article before proceeding:  
+   [articles/InfrastructureasCode.md](articles/InfrastructureasCode.md)
+
+2. **Install Terraform and AWS CLI**
+
+   Install required command-line tools using the provided scripts:
+
+   ```bash
+   # Install AWS CLI
+   bash scripts/install_awscli.sh
+
+   # Install Terraform CLI
+   bash scripts/install_terraform.sh
+   ```
+
+   Ensure both tools are available in your `PATH` and properly configured.
+
+---
+
 ## Lab Overview
 
 You will deploy an EKS cluster into a new VPC with both public and private subnets. Node groups reside in private subnets for security. This pattern is widely used in production and is suitable for most Kubernetes workloads.
