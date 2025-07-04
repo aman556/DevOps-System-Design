@@ -1,6 +1,6 @@
 # DevOps-System-Design
 
-This repo contains DevOps system design concepts and implementation. Aim is to simplify the concepts to create a strong foundation and then deep dive into complex DevOps problem statements and solutions.
+This repository features DevOps system design implementations, aiming to simplify core concepts and build a solid foundation. For each DevOps topic, we have dedicated articles and lab sections, followed by an in-depth exploration of complex DevOps problems and their solutions in the designs section.
 
 ToDo: Image for DevOps with all the  
 
@@ -20,7 +20,6 @@ ToDo: Image for DevOps with all the
     * [Security in DevOps (DevSecOps)](articles/SecurityinDevOps.md)
     * [Automation in DevOps]()
     * [Artifact Repositories]()
-    * [Feedback & Continuous Improvement]()
 
 * [DevOps Problem Statements](#🧰-devops-engineer-runbooks)
     * [How to run your Golang Project in docker image?](#how-to-run-your-golang-project-in-docker-image)
@@ -32,25 +31,6 @@ ToDo: Image for DevOps with all the
     * [How to automate notification for deployment in AWS?](#how-to-automate-notification-for-deployment-in-aws)
 * [DevOps Interview Mastery](#🎯-devops-interview-mastery)
 * [YouTube Channels for DevOps](#🎬-youtube-channels-for-devops)
-
-
-## 🚀 DevOps Fundamentals Explained
-### **What is DevOps?**
-### **DevOps Lifecycle Overview**
-### **Networking**
-### **Infrastructure as Code (IaC)**
-### **Continuous Integration (CI)**
-### **Continuous Delivery & Deployment (CD)**
-### **Configuration Management**
-### **Monitoring & Logging**
-### **Version Control Systems**
-### **Security in DevOps (DevSecOps)**
-### **Cloud & Containerization**
-### **Orchestration**
-### **Automation in DevOps**
-### **Feedback & Continuous Improvement**
-    - **Measuring Success (KPIs)**
-    - **Incident Response & Postmortems**
 
 ## DevOps Building blocks
 ### 1. **Version Control**
@@ -105,10 +85,9 @@ ToDo: Image for DevOps with all the
 
 ## 🧰 DevOps Engineer Runbooks
 ### How to run your Golang Project in docker image?
-### How to continous integrate your app?
+### How to continous integrate and continuous deploy your app?
 ### How to create IAC for EKS cluster in AWS?
 ### How to run applications as docker container in EKS cluster in AWS?
-### How to continuous deploy your app?
 ### How to moniter app running in Kubernetes cluster in Monitoring tools?
 ### How to automate notification for deployment in AWS?
 ### How to deploy a Golang Backend with database in EKS AWS cluster?
@@ -116,10 +95,12 @@ ToDo: Image for DevOps with all the
 ### How to integrate DevOps tools in your app using SDK?
 ### How to integrate DevOps tools in your app using CLI?
 ### How to automate in DevOps?
+### How to implement a notification service?
 #### Automate Github repo creation and archiving using AWS Lambda and Github REST APIs.
 #### CLI as wrapper to Github repo creation and archiving automation.
 ### How to publish your CLI as package to homebrew?
 ### How to setup alert and monitoring in DevOps?
+### create an golang app to use youtube APIs to list the table of top 10 most viewed videos and conternize it create a kubernetes config then run in the cluster (AIzaSyBBx2uLx8BT6XbBE81s7kDyIZI9AHoSm2Q)
 
 ## 🎯 DevOps Interview Mastery
 
