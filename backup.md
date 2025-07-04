@@ -68,3 +68,14 @@
 ### How to publish your CLI as package to homebrew?
 ### How to setup alert and monitoring in DevOps?
 ### create an golang app to use youtube APIs to list the table of top 10 most viewed videos and conternize it create a kubernetes config then run in the cluster (AIzaSyBBx2uLx8BT6XbBE81s7kDyIZI9AHoSm2Q)
+
+* DevOps Problem Statements
+    * [How to run your Golang Project in docker image?](#how-to-run-your-golang-project-in-docker-image)
+    * [How to continous integrate your app?](#how-to-continous-integrate-your-app)
+    * [How to create IAC for EKS cluster in AWS?](#how-to-create-iac-for-eks-cluster-in-aws)
+    * [How to run applications as docker container in EKS cluster in AWS?](#how-to-run-applications-as-docker-container-in-eks-cluster-in-aws)
+    * [How to continuous deploy your app?](#how-to-continuous-deploy-your-app)
+    * [How to moniter app running in Kubernetes cluster in Monitoring tools?](#how-to-moniter-app-running-in-kubernetes-cluster-in-monitoring-tools)
+    * [How to automate notification for deployment in AWS?](#how-to-automate-notification-for-deployment-in-aws)
+* [DevOps Interview Mastery](#🎯-devops-interview-mastery)
+* [YouTube Channels for DevOps](#🎬-youtube-channels-for-devops)
